@@ -4,3 +4,7 @@
 
 // Import all of Bootstrap's CSS
 @import "bootstrap/scss/bootstrap";
+
+body {
+    overflow-y:scroll;
+}
